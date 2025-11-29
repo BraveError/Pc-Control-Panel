@@ -2,13 +2,13 @@
 A hackpad for Hack Club Blueprint. Has 6 shortcut keys, an OLED display, and a volume knob with leds to show volume.
 
 # Cad
-<img src=Assets/Cad.png alt="Cad" width="300"/>
+<img src=Assets/Cad.png alt="Cad" width="800"/>
 The design includes 3 3D printed parts: A back piece that supports the PCB at a 45 degree angle, a front panel with cutouts, and a small spacer to support the OLED display. 
 Modeled in Fusion.
 
 # PCB
-<img src=Assets/Schematic.png alt="Schematic" width="300"/>
-<img src=Assets/PCB.png alt="PCB" width="300"/>
+<img src=Assets/Schematic.png alt="Schematic" width="800"/>
+<img src=Assets/PCB.png alt="PCB" width="800"/>
 Notable features include:
 <ul>
   <li>Larger traces for 5v and 3v3 power rails</li>
@@ -30,5 +30,6 @@ Hackpad uses KMK firmware. Currently, code uses switches to act as a small keybo
   <li>10x SK6812 MINI-E LEDs</li>
 </ul>
 All other parts (3d prints, screws) will be self-provided.
+
 
 
